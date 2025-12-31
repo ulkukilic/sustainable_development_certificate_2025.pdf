@@ -44,10 +44,7 @@ The system ensures that each user can only access features and content related t
 ![Syllabus Details](assets/images/syllabus_details.png)
 
 ###  Under Revision Course Syllabus Details
-![Syllabus Details](assets/images/_under_revision_syllabus_detail.png.png)
-
-### Course Overview Example
-![Course Overview](assets/images/course_overview.png)
+![Syllabus Details](assets/images/_under_revision_syllabus_detail.png)
 
 ### Syllabus Management Process Diagram
 ![Process Diagram](assets/images/process_diagram.png)
