@@ -49,6 +49,9 @@ The system ensures that each user can only access features and content related t
 ### Syllabus Management Process Diagram
 ![Process Diagram](assets/images/process_diagram.png)
 
+### Technologies & Tools
+![Technologies & Tools](assets/images/technologies-tools.png)
+
 ---
 
 ## 🔄 Syllabus Workflow
